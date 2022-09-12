@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huumai1998&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huumai1998&layout=compact"/>
